@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//Prince
+//Princ
 public class ResourceCentre {
 
 	public static void main(String[] args) {
