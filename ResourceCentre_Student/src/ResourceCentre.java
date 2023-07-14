@@ -2,7 +2,7 @@ import java.util.ArrayList;
 //Prince
 //Maha
 //Yati
-//Jabir
+//Jabir2
 public class ResourceCentre {
 
 	public static void main(String[] args) {
