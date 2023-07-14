@@ -4,7 +4,6 @@ import java.util.ArrayList;
 //Yati
 //Jabir2
 //Zhen Hui
-//AishaJ
 public class ResourceCentre {
 
 	public static void main(String[] args) {
